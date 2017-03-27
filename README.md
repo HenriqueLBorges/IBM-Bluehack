@@ -1,6 +1,6 @@
 #IBM-Bluehack <br/>
 Aplicativo desenvolvido no IBM Bluehack 2017, em 30 horas. O aplicativo consome dados enviados por um TJ Bot ao Watson que por sua vez administra os dados enviados pelo TJ além de processar a linguagem natural via comando de voz que ele também envia.
-<br/>
+<br/><br/>
 
 Outros membros do grupo:<br/><br/>
 
